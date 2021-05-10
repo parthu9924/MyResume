@@ -57,6 +57,19 @@
         justify-content: center;
         color:#502187;
     }
+    .about_me{
+        background-color:#c1c0e2;
+        padding: 4%;
+    }
+    .about_me h1{
+        color: #4a1c77;
+        margin-bottom: 3%;
+    }
+    .about_me p{
+        color: #4a1c77;
+        font-size: 18px;
+        text-align: justify;
+    }
 
 }
 @media only screen and (max-width: 991px){
