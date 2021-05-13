@@ -20,6 +20,50 @@
 .text-justify{
     text-align: justify;
 }
+.myicon{
+    font-size:45px;
+    color:white;
+}
+.myicon:hover{
+    font-size:48px;
+    color:#ef5338;
+}
+.footer{
+    background-color: black;
+    margin-top: 10%;
+}
+.icon-row{
+    margin:2% 0%;
+}
+.icon-row li{
+    display: inline;
+    text-decoration: none;
+    margin:15px;
+}
+.linces strong{
+    color: white;
+}
+.footer_intro{
+    color: white;
+}
+.footer_heading{
+    color:#ef5338;
+}
+.footer_data{
+    color: white;
+}
+.resume_btn{
+    background-color:#ef5338;
+    color: white;
+}
+.footer-top{
+    padding-top: 5%;
+    padding-bottom: 2%;
+}
+.linces{
+    margin-top: 3%;
+    padding-bottom: 3%;
+}
 @media only screen and (min-width: 992px) {
     .navbar{
         padding-top: 0px;
@@ -117,5 +161,27 @@
     }
     .about_content{
         margin-top: 20%;
+    }
+    .myicon{
+        font-size:30px;
+        color:white;
+    }
+    .myicon:hover{
+        font-size:33px;
+        color:#4a1c77;
+    }
+    .footer{
+        margin-top: 25%;
+    }
+    .footer-top {
+        padding-top: 10%;
+        padding-bottom: 15%;
+    }
+    .resume_btn{
+        margin-top: 18%;
+    }
+    .linces{
+        margin-top: 10%;
+        padding-bottom: 10%;
     }
 }
