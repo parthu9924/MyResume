@@ -87,7 +87,7 @@
     margin-bottom: 4%;
 }
 .intro-style{
-    margin: 5px 5px;
+    margin: 5px 15px;
 }
 .intro-style strong,p{
     font-size: 20px;
@@ -95,7 +95,7 @@
 .intro-icon{
     color: #ef5338;
     font-size:35px;
-    margin:10px 15px;
+    margin:10px 0px;
 }
 .my-btn-3{
     background-color:#ef5338 ;
